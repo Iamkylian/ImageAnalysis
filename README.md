@@ -19,7 +19,7 @@ This project uses a YOLOv8 model trained on anime faces to detect and analyze an
    ```bash
    pip install torch ultralytics pandas pyyaml
 3. Download the YOLOv8 Anime model:
-* Download the model.pt file from this link
+* Download the model.pt file from this [link](https://github.com/Fuyucch1/yolov8_animeface?tab=readme-ov-file)
 * Place the model.pt file in the models/anime_models/ directory of the project
 
 ## Usage
