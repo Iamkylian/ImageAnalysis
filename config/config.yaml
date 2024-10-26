@@ -1,0 +1,10 @@
+# config.yaml
+
+# Paths for various models and resources needed for analysis
+models:
+  anime_yolo: "models/anime_models/yolov8x6_animeface.pt"  # YOLO model specialized in anime character face recognition
+
+# Result saving options
+output:
+  save_path: "data/output/"          # Location for output files
+  save_format: "json"                # Save format (json, csv, etc.)
